@@ -1,0 +1,30 @@
+[submodule "bilibili-user"]
+	path = bilibili-user
+	url = https://github.com/airingursb/bilibili-user
+[submodule "jd-autobuy"]
+	path = jd-autobuy
+	url = https://github.com/adyzng/jd-autobuy
+[submodule "avmoo-spider"]
+	path = avmoo-spider
+	url = https://github.com/moozik/avmoo-spider
+[submodule "PornHubBot"]
+	path = PornHubBot
+	url = https://github.com/ceres993434/PornHubBot
+[submodule "PythonSpiderNotes"]
+	path = PythonSpiderNotes
+	url = https://github.com/lining0806/PythonSpiderNotes
+[submodule "zhihu_spider"]
+	path = zhihu_spider
+	url = https://github.com/LiuRoy/zhihu_spider
+[submodule "mzitu"]
+	path = mzitu
+	url = https://github.com/chenjiandongx/mzitu
+[submodule "DarkNet_ChineseTrading"]
+	path = DarkNet_ChineseTrading
+	url = https://github.com/s045pd/DarkNet_ChineseTrading
+[submodule "weiboSpider"]
+	path = weiboSpider
+	url = https://github.com/dataabc/weiboSpider
+[submodule "mmjpg"]
+	path = mmjpg
+	url = https://github.com/chenjiandongx/mmjpg
