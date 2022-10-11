@@ -1,0 +1,4 @@
+beautifulsoup4
+requests-toolbelt
+selenium
+webdriver-manager
